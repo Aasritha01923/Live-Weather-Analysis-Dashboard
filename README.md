@@ -114,6 +114,10 @@ Keep these generic DAX measures as templates so when you want to add AQI visuali
 🎉 Conclusion:
 Integrating WeatherAPI with Power BI enables the creation of a dynamic weather dashboard featuring real-time data and custom AQI visualizations. Leveraging reusable DAX measures ensures the solution remains scalable, maintainable, and adaptable to evolving requirements.
 
+Thanks for stopping by - hope this dashboard brightens your day like good weather does....! Made with love for data and a little obsession with the weather.
+If this dashboard made you smile, my job here is done — and if you need help, I’m just a message away.....!
+Happy dashboarding!🎨
+
 
 Thanks for stopping by - hope this dashboard brightens your day like good weather does....! Made with love for data and a little obsession with the weather.
 If this dashboard made you smile, my job here is done — and if you need help, I’m just a message away.....!
