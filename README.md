@@ -16,7 +16,6 @@ WeatherAPI.com is a simple and powerful service that returns live, historical, a
 
 🔑 Step 1: Get Your WeatherAPI Key
               1. Sign up at WeatherAPI.com, then copy your API key.
-
               2. You’ll use this key to authenticate API calls.
 
 🌐 Step 2: Build the API URL
@@ -104,7 +103,7 @@ AQI <= 300, "Very Unhealthy",
 
 ✅ Again, just replace COLUMN_NAME with the pollutant of interest.
 
-Finally, Your Dashboard will look like: 
+Finally, Your Dashboard will look like: https://github.com/Aasritha01923/Live-Weather-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg
 
 
 💡 Handy hint:
